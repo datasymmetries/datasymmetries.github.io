@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Data Symmetries S.M.P.C.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Συμμετρίες Δεδομένων Μονοπρόσωπη Ι.Κ.Ε.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Η εταιρεία Συμμετρίες Δεδομένων Μ.Ι.Κ.Ε. εδρεύει στο Δήμο Νέας Ιωνίας Αττικής και είναι καταχωρημένη στο
+Γενικό Εμπορικό Μητρώο με αριθμό Γ.Ε.ΜΗ. 164132003000.
 
-What else do you need?
 
-### My story
+Επικοινωνήστε μαζί μας στο `datasymmetries@perrakis.org`.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Μοναδικός έταιρος της εταιρείας είναι ο κ. Νικόλαος Περράκης κάτοικος Νέας Ιωνίας.
+Διαχειριστής της εταιρέιας είναι ο κ. Νικόλαος Περράκης κάτοικος Νέας Ιωνίας.
+
+# Data Symmetries S.M.P.C.
+
+The company Data Symmetries S.M.P.C. is located in the Municipality of Nea Ionia, Attica and is registered at
+General Commercial Register with number Γ.Ε.ΜΗ. 164132003000.
+
+Contact Us at `datasymmetries@perrakis.org`.
